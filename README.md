@@ -8,4 +8,4 @@ Input image:\
 Compressed image:\
 <img src="./comp1.png">
 <img src="./comp2.png">
-.
+
