@@ -3,6 +3,6 @@ Implementation of the EM algorithm for Gaussian Mixtures from scratch (using Num
 
 ## Image compression example.
 Input image:\
-<img src="./im.jpg">
+<img src="./im.jpg" width="300" height="376">
 
 Compressed image:\
