@@ -6,3 +6,5 @@ Input image:\
 <img src="./im.jpg" width="300" height="376">
 
 Compressed image:\
+<img src="./comp1.jpg">
+<img src="./comp2.jpg">
